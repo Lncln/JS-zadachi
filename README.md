@@ -1,2 +1,2 @@
 # JS-zadachi
-Learn js задачи 5 глав
+https://learn.javascript.ru/ решенные задачи 8 глав
